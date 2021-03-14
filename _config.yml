@@ -14,7 +14,7 @@ author: Anudit Verma
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.anudit.in/"
+url: "https://www.chrishickey2.github.io/
 
 # baseurl should be an empty string
 baseurl: ""
@@ -73,7 +73,7 @@ round-avatar: true
 social-network-links:
 # email: "someone@example.com"
   facebook: anuditverma
-  github: anuditverma
+  github: chrishickey
   twitter: anuditverma
 # reddit: yourname
   linkedin: anuditverma
